@@ -1,0 +1,1 @@
+This project is an implementation of k-Nearest Neighbours classifier to diagnose the likelihood of breast cancer using measurements from digitized images of fine-needle aspirate of a breast mass.The model has been implemented using the "R" statistical programming language.The project details are explained in the accompanying PowerPoint presentation file.
